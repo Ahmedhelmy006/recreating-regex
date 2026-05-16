@@ -227,3 +227,5 @@ test.py
 tables_updatedat_report.txt
 logs*
 dotenv_test.py
+.vscode
+understanding-regex
